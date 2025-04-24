@@ -1,0 +1,68 @@
+
+ 
+
+
+  
+.splash-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+  }
+  
+  
+  .splash-box {
+    text-align: center;
+    padding: 40px;
+    background-color: #111;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(255, 0, 0, 0.5);
+  }
+  
+  
+  .splash-logo {
+    width: 130px;
+    height: 130px;
+    object-fit: contain;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 0 25px rgba(255, 0, 0, 0.5);
+  }
+  
+  
+  .splash-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+  }
+  
+  
+  .title-red {
+    color: #e50914;
+  }
+  
+  
+  .splash-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  
+  .splash-btn {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .splash-btn:hover {
+    background-color: #ff1a1a;
+  }
+  
