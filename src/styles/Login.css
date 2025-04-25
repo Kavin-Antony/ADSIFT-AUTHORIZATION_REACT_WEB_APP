@@ -6,7 +6,7 @@
     align-items: center;
     font-family: 'Helvetica Neue', sans-serif;
   }
-  
+   
   .login-card {
     background-color: #111;
     padding: 40px 30px;
@@ -24,6 +24,7 @@
   }
   
   .login-input {
+    
     width: 100%;
     padding: 12px;
     margin: 10px 0;
